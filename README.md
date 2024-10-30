@@ -172,7 +172,57 @@ Teste prometheus minha primeira plataforma de IA 100 % original - primeiro chatb
 ![chrome_bPgkFyv7Kl](https://github.com/user-attachments/assets/23f00afb-ae4f-4b34-a798-28fc5c00ed35)
 ![chrome_BpZ08ea9cK](https://github.com/user-attachments/assets/87439b83-a216-4db8-ac5e-1f6ae668cbfc)
 
+Ferramentas de automação de analise de dados e relatórios
 
+![chrome_8QfBXyDyWd](https://github.com/user-attachments/assets/575eb7b9-0569-4a6f-b520-6d1977de1c94)
+![chrome_PyVUnPv62h](https://github.com/user-attachments/assets/4ab78e0e-61e3-4243-a642-ea9c84495b59)
+![chrome_VK5etYnzw1](https://github.com/user-attachments/assets/ce97aab6-5fcc-4363-8ea9-5d8d99135ce9)
+![chrome_YRpTz1GPGp](https://github.com/user-attachments/assets/ff5fddc4-0402-49d8-a523-651e073d922f)
+![chrome_4ahYG2Pxqw](https://github.com/user-attachments/assets/fce8e384-7b66-46f4-8ab8-042633fa3cf0)
+![chrome_d5nQ9eosNT](https://github.com/user-attachments/assets/c275144d-ddd6-4dcf-a1e5-d4ccf95636eb)
+![chrome_xiewyWTiHR](https://github.com/user-attachments/assets/fc861539-b311-4e13-9180-7b2f992bd1e4)
+![chrome_CChrq6GNj9](https://github.com/user-attachments/assets/44a26843-e3a4-4236-8361-603a1e5aaf6e)
+![chrome_swSY4pEdgp](https://github.com/user-attachments/assets/8d8a4fb8-3787-43b0-a321-8ebbb46c9fbe)
+![chrome_ld20EXR21k](https://github.com/user-attachments/assets/f916e919-f92c-498c-b0d0-24b3c69ce847)
+![chrome_E0yRyR9KWH](https://github.com/user-attachments/assets/4d90e1f4-b030-45d8-bcef-1457d24d0f40)
+![chrome_S0vEQGUif7](https://github.com/user-attachments/assets/fafe0ddc-dad6-422c-827e-9cf7ceee2a77)
+![chrome_EEgnhewuHj](https://github.com/user-attachments/assets/71992b00-6ad1-4838-afb9-2ec40454f7e2)
+![chrome_dxWSxFaRfN](https://github.com/user-attachments/assets/52988a33-d258-4f50-b594-cd677abba043)
+![chrome_mTcmQOsCEY](https://github.com/user-attachments/assets/cebb276f-a9bf-499b-9652-37c81d769ef0)
+![chrome_j0Xf3HI3BJ](https://github.com/user-attachments/assets/c002b847-7472-4ae9-8894-4068ec5c3f94)
 
+Ferramenta análise e comparação de currículo x vaga
+
+![chrome_MnianhTUG1](https://github.com/user-attachments/assets/f7b0b54f-d90f-43a9-a17e-2654a68b3bf1)
+![chrome_LuPRQVveHS](https://github.com/user-attachments/assets/a93c10a5-3057-4a5d-8ed9-53694023500f)
+![chrome_9dIUwJoTuz](https://github.com/user-attachments/assets/962a1a98-7c8d-4219-8bc2-2141d94a5481)
+![chrome_QkHLSq38tp](https://github.com/user-attachments/assets/66d096e5-ae50-46bb-8de3-085b2d8ab9c5)
+![chrome_jCqBK8nKk5](https://github.com/user-attachments/assets/e57a623c-b164-4085-9e1e-6794ff105c12)
+![chrome_MXLbaXffDb](https://github.com/user-attachments/assets/f5ae497b-97d5-4757-ac81-fa97cc73c3aa)
+![chrome_hWuFqu70Mz](https://github.com/user-attachments/assets/28cbcf04-8b55-483e-9f22-78be307f6b60)
+![chrome_TYP048SThO](https://github.com/user-attachments/assets/abd341f5-2d9c-418d-b2a7-2ba836061172)
+
+Outras automações avançadas diversas com o streamlit
+
+<img width="603" alt="chrome_qWNIrkTu5V" src="https://github.com/user-attachments/assets/019a8893-741a-4a2b-9a55-38a818ae0c73">
+<img width="704" alt="chrome_XsMHFiGgg5" src="https://github.com/user-attachments/assets/ea0e7af2-6b44-44f2-834a-ff58c18cc56c">
+<img width="638" alt="chrome_GLAKTgM4Et" src="https://github.com/user-attachments/assets/4d486f9a-8e7c-4bf7-ae60-7e8f2d2d11af">
+<img width="873" alt="chrome_ZURX8VPR8j" src="https://github.com/user-attachments/assets/be693c88-1276-4eac-bd02-5d5e8193b055">
+<img width="1137" alt="chrome_1MnM31MYNM" src="https://github.com/user-attachments/assets/6d986922-8e42-478c-ba19-b296ba14d7cc">
+![chrome_JUK56unkdt](https://github.com/user-attachments/assets/732c4e17-3515-493d-85d8-cce5fad050d6)
+![chrome_lUfkQG581j](https://github.com/user-attachments/assets/bd6fc134-a9cc-47fd-969e-26d2293d9502)
+<img width="609" alt="chrome_H116E5pFN4" src="https://github.com/user-attachments/assets/c7306e27-4c0e-4ee0-b5be-9573ea308ed9">
+<img width="651" alt="chrome_owjDtQtzpn" src="https://github.com/user-attachments/assets/eba5ea8f-f2da-422d-be64-5a8037ea656a">
+<img width="676" alt="chrome_9IdZ3SYgyU" src="https://github.com/user-attachments/assets/cbd37bb9-b34b-41f5-920b-1bea3c499d88">
+<img width="603" alt="chrome_HLXk0k8Fj3" src="https://github.com/user-attachments/assets/d2bfc5f6-8e0b-4684-bef8-28740c24b3d0">
+<img width="640" alt="chrome_5cRyctYlzy" src="https://github.com/user-attachments/assets/97ce84b4-9d90-4bcd-a750-5fad6bfa6260">
+<img width="653" alt="chrome_N250Zaycce" src="https://github.com/user-attachments/assets/53dcbde4-c7d7-46b9-9e6a-3591128a8522">
+<img width="648" alt="chrome_voUKpqZ7Ta" src="https://github.com/user-attachments/assets/d60a03b8-d590-43cc-873f-64fd31272531">
+<img width="802" alt="chrome_UKjdcHXZmp" src="https://github.com/user-attachments/assets/8f6e16c9-4145-4be6-976e-3c99bb400941">
+<img width="724" alt="chrome_sXfEevn115" src="https://github.com/user-attachments/assets/ba39a2c4-6618-43c8-88fb-b11e03f95210">
+![chrome_98XwkGDeYc](https://github.com/user-attachments/assets/759711a8-c5e3-4e97-bc91-3be344f5e368)
+![chrome_kyYnFiXsP8](https://github.com/user-attachments/assets/8171d364-6b37-43dc-85fa-aaaf21109a3d)
+![chrome_hnhwSHEYA1](https://github.com/user-attachments/assets/d4d5b475-aef7-4edc-ac05-ade0915fd6df)
+![chrome_jNOB4blkqH](https://github.com/user-attachments/assets/c29bd271-c2a0-4b7c-876b-51b6956016a8)
 
 Obrigado por visitar meu portfólio! Espero que você encontre inspiração e novas ideias aqui. 🚀
