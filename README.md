@@ -6,6 +6,25 @@ Bem-vindo ao meu portfólio! Sou Elias Andrade, um profissional apaixonado por t
 
 ![1c306eea-d1f0-45dd-abe9-fa507604ed3f](https://github.com/user-attachments/assets/1fa1c0bf-d998-4266-930e-6baa8351a439)
 
+# Streamlit Showcase Repository 🌐🚀
+> Este repositório contém capturas de tela e descrições dos projetos desenvolvidos em Streamlit. Devido à proteção de propriedade intelectual, o código-fonte não é divulgado publicamente. Se busca explorar mais ou conhecer meus projetos em detalhes, entre em contato! 🤝
+
+![Project in Progress](https://img.shields.io/badge/Projeto-Em%20Desenvolvimento-blue)
+![Contact me](https://img.shields.io/badge/Email-oeliasandrade@gmail.com-yellow)
+![CLT & PJ Opportunities](https://img.shields.io/badge/Oportunidade-CLT%20%7C%20PJ-brightgreen)
+
+## ⚙️ Principais Funcionalidades
+
+- **Visualizações e Análises** 📊
+- **Automação de Relatórios** 📈
+- **Interfaces Interativas** 🖥️
+- **Aplicações Customizadas** ⚡️
+
+### Status do Repositório 🔄
+Este projeto está em constante evolução, e planejo adicionar ainda mais recursos em breve! Caso você seja uma empresa ou profissional interessado em projetos ou oportunidades, estou disponível para **trabalho CLT** e **PJ**. Para consultas profissionais, sinta-se à vontade para me contatar pelo e-mail abaixo:
+
+📫 **Email:** oeliasandrade@gmail.com
+
 
 Ao longo da minha carreira, desde 2010,  tenho me dedicado a criar soluções que transformam a forma como as empresas operam. Minha experiência abrange:
 
