@@ -66,25 +66,39 @@ Projetos mais recentes
 <img width="549" alt="chrome_LW9zpxAxwo" src="https://github.com/user-attachments/assets/72e18c76-04e7-4d70-9c79-e90de2f6cfd9">
 <img width="234" alt="chrome_UKuXLx0x0C" src="https://github.com/user-attachments/assets/319f6a2a-3702-49d7-bade-1092f534f1b5">
 <img width="241" alt="chrome_MaY5RxGfG7" src="https://github.com/user-attachments/assets/ab5c2e7b-d3fc-4f95-a68e-f5502f082abd">
+
 ![chrome_i1WtXKN7vz](https://github.com/user-attachments/assets/f72fe2ac-16c3-444a-bfc8-0ed948c9d412)
+
 ![chrome_rGysyKEnQ1](https://github.com/user-attachments/assets/ee3416cd-8a43-4a2e-b67a-712ebd8e04f7)
+
 <img width="563" alt="chrome_N3a5RF4XkD" src="https://github.com/user-attachments/assets/d67ce931-aa6f-44fd-ae5a-450aadb8c888">
+
 ![chrome_0InxeWyXKT](https://github.com/user-attachments/assets/2e64a472-5474-4e60-80aa-6656efe05140)
+
 ![chrome_5JZV0yqhWR](https://github.com/user-attachments/assets/04e00b81-56d2-406d-882d-b7e14ac16281)
+
 ![chrome_iowG2qiYjs](https://github.com/user-attachments/assets/b075978d-de52-4cdd-8974-5895e04a9e4b)
+
 ![chrome_oeTpuF8e3L](https://github.com/user-attachments/assets/2112c869-3376-4021-93a1-0740a53bb317)
+
 ![chrome_mgbd0N05OU](https://github.com/user-attachments/assets/e51ef14a-e3c9-4bb2-ac4b-7899d7cc0dab)
+
 <img width="248" alt="chrome_RecpUhrAdA" src="https://github.com/user-attachments/assets/21a9f43c-b38c-4bfb-b0a2-bbb1e629b8d7">
 <img width="696" alt="chrome_KfA41zU81R" src="https://github.com/user-attachments/assets/449c5ccd-51d8-4e37-a34a-60898d8931b4">
 <img width="608" alt="chrome_c6xTxaZIcj" src="https://github.com/user-attachments/assets/47c75619-5de4-4a3e-81c6-8b5b7d9d85f2">
 <img width="582" alt="chrome_j7d00VvGtO" src="https://github.com/user-attachments/assets/82aa1d62-9018-438c-90bb-fd68547d79c8">
+
 ![chrome_q5SKCNclKy](https://github.com/user-attachments/assets/09484888-34f9-4981-aa46-6baf5816bd16)
+
 ![chrome_8v1I8VGO7J](https://github.com/user-attachments/assets/d833c103-8b8f-4151-b094-3bf469f54e48)
+
 <img width="1156" alt="chrome_xR8o6Mgjqe" src="https://github.com/user-attachments/assets/2963e146-4157-4549-a151-8815984afff9">
 <img width="244" alt="chrome_NhLaSjNg5i" src="https://github.com/user-attachments/assets/8e03a32c-1570-4bb6-886f-2df056ac754d">
 <img width="837" alt="chrome_ubrqUIAWUF" src="https://github.com/user-attachments/assets/406b0cac-6f91-46ff-9e14-ea0e72882977">
 <img width="556" alt="chrome_3Vd0ULEfaq" src="https://github.com/user-attachments/assets/28fc25e1-31e2-4ef4-ac75-b0498a2cee3f">
+
 ![chrome_x7Znryluiq](https://github.com/user-attachments/assets/e65da8a4-c9dd-4119-94e5-213cf389776e)
+
 <img width="224" alt="chrome_va0PvDEHHY" src="https://github.com/user-attachments/assets/3cb78da2-d524-4aec-a0f1-ab667eb053a4">
 <img width="556" alt="chrome_SjwfqcFKRR" src="https://github.com/user-attachments/assets/be1327fc-9c36-4284-885f-1dd9d0b7c90d">
 
@@ -209,8 +223,11 @@ Outras automações avançadas diversas com o streamlit
 <img width="638" alt="chrome_GLAKTgM4Et" src="https://github.com/user-attachments/assets/4d486f9a-8e7c-4bf7-ae60-7e8f2d2d11af">
 <img width="873" alt="chrome_ZURX8VPR8j" src="https://github.com/user-attachments/assets/be693c88-1276-4eac-bd02-5d5e8193b055">
 <img width="1137" alt="chrome_1MnM31MYNM" src="https://github.com/user-attachments/assets/6d986922-8e42-478c-ba19-b296ba14d7cc">
+
 ![chrome_JUK56unkdt](https://github.com/user-attachments/assets/732c4e17-3515-493d-85d8-cce5fad050d6)
+
 ![chrome_lUfkQG581j](https://github.com/user-attachments/assets/bd6fc134-a9cc-47fd-969e-26d2293d9502)
+
 <img width="609" alt="chrome_H116E5pFN4" src="https://github.com/user-attachments/assets/c7306e27-4c0e-4ee0-b5be-9573ea308ed9">
 <img width="651" alt="chrome_owjDtQtzpn" src="https://github.com/user-attachments/assets/eba5ea8f-f2da-422d-be64-5a8037ea656a">
 <img width="676" alt="chrome_9IdZ3SYgyU" src="https://github.com/user-attachments/assets/cbd37bb9-b34b-41f5-920b-1bea3c499d88">
@@ -220,9 +237,13 @@ Outras automações avançadas diversas com o streamlit
 <img width="648" alt="chrome_voUKpqZ7Ta" src="https://github.com/user-attachments/assets/d60a03b8-d590-43cc-873f-64fd31272531">
 <img width="802" alt="chrome_UKjdcHXZmp" src="https://github.com/user-attachments/assets/8f6e16c9-4145-4be6-976e-3c99bb400941">
 <img width="724" alt="chrome_sXfEevn115" src="https://github.com/user-attachments/assets/ba39a2c4-6618-43c8-88fb-b11e03f95210">
+
 ![chrome_98XwkGDeYc](https://github.com/user-attachments/assets/759711a8-c5e3-4e97-bc91-3be344f5e368)
+
 ![chrome_kyYnFiXsP8](https://github.com/user-attachments/assets/8171d364-6b37-43dc-85fa-aaaf21109a3d)
+
 ![chrome_hnhwSHEYA1](https://github.com/user-attachments/assets/d4d5b475-aef7-4edc-ac05-ade0915fd6df)
+
 ![chrome_jNOB4blkqH](https://github.com/user-attachments/assets/c29bd271-c2a0-4b7c-876b-51b6956016a8)
 
 Obrigado por visitar meu portfólio! Espero que você encontre inspiração e novas ideias aqui. 🚀
